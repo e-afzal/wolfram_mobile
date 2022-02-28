@@ -1,6 +1,6 @@
-# wolfram
+# Wolfram Realty App
 
-A new Flutter project.
+Wolfram Realty Mobile App created using the Flutter SDK.
 
 ## Getting Started
 
